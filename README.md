@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 
+I am Joel, a senior at the Indian Institute of Technology, Palakkad. I am currently pursuing my Bachelor's in Electrical Engineering (BTech) from IIT Palakkad and Data Science (BSc) from IIT Madras.
+ 🔭 I’m currently working on Ultrasound Imaging and looking to dive deep into ML.
 <!--
 **Joel-Jeffrey/Joel-Jeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

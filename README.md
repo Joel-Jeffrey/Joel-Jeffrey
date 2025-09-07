@@ -1,6 +1,6 @@
 ### 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! &animation=fadeIn&type=venom&color=gradient&height=100"/>
 </p>
 Hi there 👋 
 I am Joel, a Master's student in the Elmore School of Electrical and Computer Engineering at Purdue. I pursued my Bachelor's in Electrical Engineering (BTech.) from IIT Palakkad. Post completion of my Bachelor's, I was a researcher at the Indian Institute of Science.

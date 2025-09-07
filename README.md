@@ -1,5 +1,9 @@
-### Hi there 👋 
-I am Joel, a Project Associate at the Indian Institute of Science, Bangalore. I pursued my Bachelor's in Electrical Engineering (BTech) from IIT Palakkad.
+### 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+Hi there 👋 
+I am Joel, a Master's student in the Elmore School of Electrical and Computer Engineering at Purdue. I pursued my Bachelor's in Electrical Engineering (BTech.) from IIT Palakkad. Post completion of my Bachelor's, I was a researcher at the Indian Institute of Science.
  🔭 I’m currently working on Explainable AI and Deep Learning with a slight focus on Medical Imaging.
 <!--
 **Joel-Jeffrey/Joel-Jeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Jeffrey</h1>
-<h3 align="center">MS-ECE @ Purdue | B.Tech-EE @ IITPkd | Passionate about Computer Vision and Natural Language Processing</h3>
+<h3 align="center">MS-ECE @ Purdue | B.Tech-EE @ IIT Pkd | Passionate about Computer Vision and Natural Language Processing</h3>
 
 - 🔭 I’m currently working on **Reverse-engineering modern vision architectures (VAN, ConvNeXt, ViT) by building them from the base**
 
